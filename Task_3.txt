@@ -1,0 +1,15 @@
+
+Loops are control flow structures in programming that allow a set of instructions to be repeatedly executed as long as a certain condition is true. Loops are used to automate repetitive tasks, making it more efficient and concise to write code. They are essential for iterating over collections of data, processing sequences, and performing tasks that need to be repeated multiple times.
+
+
+for (let i = 0; i < 5; i++) {
+    console.log(i);
+}
+
+
+let i = 0;
+while (i < 5) {
+    console.log(i);
+    i++;
+}
+

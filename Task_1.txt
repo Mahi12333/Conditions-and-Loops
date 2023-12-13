@@ -1,0 +1,17 @@
+The most common types of conditional statements are "if," "else if" (in some languages), and "else." Here's a general explanation along with syntax and examples in a pseudocode-like format:
+
+if (condition):
+    // Code to be executed if the condition is true
+
+
+Example:-
+age = 25
+if age >= 18:
+    print("You are an adult.")
+
+Example:-
+age = 15
+if age >= 18:
+    print("You are an adult.")
+else:
+    print("You are a minor.")
